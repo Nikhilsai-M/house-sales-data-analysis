@@ -44,5 +44,5 @@ It involves analyzing a dataset of house sales in King County, USA using Python 
 
 ## 🚀 Run It Yourself
 ```bash
-pip install -r requirements.txt
+pip install -r (requirements)
 jupyter notebook House_Sales_in_King_Count_USA.ipynb
